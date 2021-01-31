@@ -10,6 +10,6 @@ These packages include:
 - Google ARCore 15.0.0 Unity Package or later
 - Google Map gaming services Unity Package
 
-# You can find this packages by going to the official Google websites for these services
+You can find this packages by going to the official Google websites for these services
 
 Once these Packages are imported you have all you need to work on the project
