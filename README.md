@@ -1,4 +1,4 @@
-# History-on-the-Street
+# History-On-Our-Streets
 
 In the Repo you will findthe Unity package for the History on the Street project.
 The Unity Package contain all the neccessary assets needed to get the project up and running.
